@@ -1,0 +1,127 @@
+content{
+    width: 600px;
+    border:10px solid rgb(255, 0, 187);
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 50px;
+    text-align: center;
+}
+h1{
+color: rgb(25, 7, 7);
+font-size:75px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin: 9% 35% ;
+text-shadow:4px 4px 0 #366514
+
+}
+p{
+    color: rgb(red, green, blue),16,94;
+    font-size: 30px;
+    font-family: fantasy;
+    text-align: left;
+   margin: auto; 
+   position: fixed;
+   bottom: 20px; /* distance from bottom */ 
+   left: 20px;  
+   width:700px;
+   border: 20px rgb(225, 90, 164) solid;
+   background-color: beige;
+}
+img{
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    right: -5px;
+    top:300px;
+
+}
+video{
+    width:400px;
+    height:400px;
+    position:absolute;
+    right:350px;
+    top:280px;
+}
+img{
+ width: 400px;
+ height:300x;
+ position:absolute;
+ top: 230px;
+ right:10px;
+}
+
+.kitty{
+    left: 730;
+    top: 500;
+    width: 200px;
+    height: 250px;
+ }
+
+ .girl{
+    left: 100;
+    top: 150;
+    width: 200px;
+    height: 250px;
+ }
+
+  .star{
+    left: 1495;
+    top: 110;
+    width: 200px;
+    height: 250px;
+    transform: rotate(-55deg);
+ }
+
+   .playboy{
+    left: 1500;
+    top: 400;
+    width: 200px;
+    height: 250px;
+     transform: rotate(-10deg);
+ }
+   .msp{
+    left: 300;
+    top: 140;
+    width: 200px;
+    height: 250px;
+     transform: rotate(-20deg);
+ }
+
+
+
+
+body{
+    background-color: rgb(200, 22, 49);
+      background-image: url("images/header-gif.gif");
+    background-repeat: no-repeat;
+    background-size: contain;}
+    button{
+        
+       position:fixed;
+        bottom: 20;
+         right: 20px;
+    }
+    .image{
+    width: 200px;
+    height: 60px;
+    background-image: url(images/click\ image\ 111.png);
+    background-size: cover;
+
+    }
+
+audio{
+
+position:absolute;
+bottom:100px;
+left:950px;
+margin:20px;
+display:block;
+z-index:60;
+
+}
+
+
+
+
+
+

@@ -1,0 +1,65 @@
+h1{
+color: rgb(134, 13, 86);
+font-size:75px;
+font-family: 'Segoe UI', Tahoma;
+margin: 12% 35% ;
+position:relative;
+animation:moveText 3s infinite alternate;
+}
+
+@keyframes moveText{
+
+0%{ left:0}
+100%{left: 50px;}
+
+}
+
+body{
+background-image: url(images/Untitled.png);
+background-size: cover;
+width: 1500px;
+height: 1100px;
+}
+button{
+        
+       position:fixed;
+        bottom: 20px;
+         right: 20px;
+    }
+    .image{
+    width: 200px;
+    height: 60px;
+    background-image: url(images/click\ image\ 111.png);
+    background-size: cover;
+}
+
+.dov{
+   position:absolute;
+   top: 900px;
+    right: 700px;
+    width: 300px;
+    height: 350px;
+}
+.princess{
+   position:absolute;
+   top: 900px;
+    right: 1000px;
+    width: 300px;
+    height: 350px;
+}
+
+ .lana{
+    position:absolute;
+    top: 200px;
+    right: 200px;
+    width: 300px;
+    height: 350px;
+ }
+
+  .knives{
+    position:absolute;
+    bottom:20px;
+    left: 20px;
+    width: 200px;
+    height: 250px;
+ }
